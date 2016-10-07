@@ -2,7 +2,7 @@
 
 $WUFU_KEY = "GNVU-Z6R3-66TZ-QL4N";
 
-$SUBDOMAIN = "nenindia.wufoo.com";
+$SUBDOMAIN = "nenindia.wufoo.eu";
 
 $DOMAIN = "wufoo.com";
 
